@@ -14,5 +14,8 @@
 #Dom and Domber/DOMination
  further manipulated a page with DOM.
 
- 
+ ![alt text](Screen&#32;Shot&#32;2019-10-15&#32;at&#32;12.20.46&#32;AM.png)
 
+all that was done with javascript.
+
+and of course some human resource machine.
